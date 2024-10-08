@@ -1,0 +1,4 @@
+﻿  Task2.cpp
+C:\Users\DELL\source\repos\DSALAB04\Task2.cpp(23,23): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\DELL\source\repos\DSALAB04\Task2.cpp(42,25): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  DSALAB04.vcxproj -> C:\Users\DELL\source\repos\DSALAB04\x64\Debug\DSALAB04.exe
